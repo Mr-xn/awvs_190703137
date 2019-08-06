@@ -20,7 +20,7 @@ docker exec -it -u root wvs07 /bin/bash
 ```
 
 
-    登录awvs平台: http://vpsip:51443/
+    登录awvs平台: http(s)://vpsip:51443/
 
     账号密码:
     admin@test.com
