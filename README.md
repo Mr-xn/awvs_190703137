@@ -1,5 +1,5 @@
 # Awvs 2019_07 Docker 
-基于https://github.com/Leezj9671/SecDevices_docker项目修改
+基于https://github.com/Leezj9671/SecDevices_docker 项目修改
 
 
 下载最新awvs保存到当前目录: https://s3.amazonaws.com/a280ccaaf904330a389db759e6275285/acunetix_trial.sh
